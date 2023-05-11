@@ -1,0 +1,66 @@
+[
+ {
+    "Location": "Kormangla",
+    "city_id": 1,
+    "location_id": 1,
+    "city": "Bengaluru",
+    "state": "karnataka",
+    "country":"India"
+ },{
+    "Location": "Jay nagar",
+    "city_id": 1,
+    "location_id": 2,
+    "city": "Bengaluru",
+    "state": "karnataka",
+    "country":"India"
+ },{
+    "Location": "JB Nagar",
+    "city_id": 2,
+    "location_id": 3,
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country":"India"
+ },{
+    "Location": "East Andheri",
+    "city_id": 2,
+    "location_id": 4,
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country":"India"
+ },{
+    "Location": "Sarojini Nagar",
+    "city_id": 2,
+    "location_id": 5,
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country":"India"
+ },{
+    "Location": "Mani Nagar",
+    "city_id": 3,
+    "location_id": 6,
+    "city": "Ahmadabad",
+    "state": "Gujrat",
+    "country":"India"
+ },{
+    "Location": "Navrangpura",
+    "city_id": 3,
+    "location_id": 7,
+    "city": "Ahmadabad",
+    "state": "Gujrat",
+    "country":"India"
+ },{
+    "Location": "Amberpet",
+    "city_id": 4,
+    "location_id": 8,
+    "city": "Hydrabad",
+    "state": "Andra Pradesh",
+    "country":"India"
+ },{
+    "Location": "Chandra Nagar",
+    "city_id": 4,
+    "location_id": 9,
+    "city": "Hydrabad",
+    "state": "Andra Pradesh",
+    "country":"India"
+ }
+]

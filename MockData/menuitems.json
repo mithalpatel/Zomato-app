@@ -1,0 +1,566 @@
+[
+  {
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002f1"
+    },
+    "name": "Idli-Dosa",
+    "description": "Made with fresh Idli and dosa batter",
+    "ingridients": [
+      "Rice-batter",
+      "Chutney"
+    ],
+    "image": "https://chennaicaters.com/assets/dosa--1@1x.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a005078"
+    },
+    "qty": 0,
+    "cost": 250
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002f2"
+    },
+    "name": "Upma",
+    "description": "Made with fresh vegitables",
+    "ingridients": [
+      "Rava",
+      "Vegetables"
+    ],
+    "image": "https://thumbs.dreamstime.com/b/upma-made-samolina-rava-upma-most-famous-south-indian-breakfast-item-which-beautifully-arranged-plate-banana-216111370.jpg",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a005078"
+    },
+    "qty": 0,
+    "cost": 100
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002f3"
+    },
+    "name": "Veg loaded",
+    "description": "Made with Fresh Cheese, vegetables and some Spices like chilly flakes and origano",
+    "ingridients": [
+      "Cheese",
+      "Vegetables",
+      "Chiily-Flakes"
+    ],
+    "image": "https://img.lovepik.com/free-png/20210919/lovepik-pizza-png-image_400594998_wh1200.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a005079"
+    },
+    "qty": 0,
+    "cost": 599
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002f4"
+    },
+    "name": "Veggie Paradise",
+    "description": "Made with Fresh Cheese, vegetables and some Spices like chilly flakes",
+    "ingridients": [
+      "Cheese",
+      "Vegetables",
+      "Chiily-Flakes"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TdkUoZisM-m2WcAdVsbQ-v3hER91wizUXA&usqp=CAU",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a005079"
+    },
+    "qty": 0,
+    "cost": 399
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002f5"
+    },
+    "name": "Margareta",
+    "description": "Made with Fresh Cheese and some Spices like chilly flakes",
+    "ingridients": [
+      "Cheese",
+      "Chiily-Flakes"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpeNB1Sf-agcyx2rGiBroAQK9mnEoQU9nDQg&usqp=CAU",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a005079"
+    },
+    "qty": 0,
+    "cost": 299
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002f6"
+    },
+    "name": "Burger",
+    "description": "Made of Ground beef, Buns and Vegetables",
+    "ingridients": [
+      "Bun",
+      "Vegetables"
+    ],
+    "image": "https://www.pngfind.com/pngs/m/81-819988_chicken-burger-hd-png-download.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507a"
+    },
+    "qty": 0,
+    "cost": 199
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002f7"
+    },
+    "name": "Periperi fries",
+    "description": "Made with fresh potatos and some spices",
+    "ingridients": [
+      "Potato",
+      "Chiily-Flakes",
+      "Corn-flour"
+    ],
+    "image": "https://thumbs.dreamstime.com/b/tasty-spicy-peri-peri-french-fries-mayonnaise-served-plate-over-rustic-wooden-background-selective-focus-tasty-spicy-223921260.jpg",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507a"
+    },
+    "qty": 0,
+    "cost": 640
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002f8"
+    },
+    "name": "Crispy fried chicken",
+    "description": "Made with chicken and some spices",
+    "ingridients": [
+      "Corn-flour",
+      "VChicken"
+    ],
+    "image": "https://toppng.com/uploads/preview/fried-chicken-png-11552945573sn657hxomw.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507a"
+    },
+    "qty": 0,
+    "cost": 199
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002f9"
+    },
+    "name": "Kadai Paneer",
+    "description": "Made with paneer, Vegetables and some spices",
+    "ingridients": [
+      "Paneer",
+      "Vegetables"
+    ],
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/3a/88/db/kadai-paneer.jpg",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507b"
+    },
+    "qty": 0,
+    "cost": 150
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002fa"
+    },
+    "name": "Hydrabadi Dum Biriyani",
+    "description": "Made of fresh vegetables, Chicken and some spices",
+    "ingridients": [
+      "Onions",
+      "Basmati-rice",
+      "spices"
+    ],
+    "image": "https://w7.pngwing.com/pngs/134/682/png-transparent-paradise-hotel-hyderabadi-biryani-hyderabadi-cuisine-indian-cuisine-kerala-biriyani-food-recipe-cuisine-thumbnail.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507b"
+    },
+    "qty": 0,
+    "cost": 320
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002fb"
+    },
+    "name": "South Indian Thali",
+    "description": "We serve verities of south indian dishes",
+    "ingridients": [
+      "Rice",
+      "Dal",
+      "roti"
+    ],
+    "image": "https://as2.ftcdn.net/v2/jpg/01/65/56/89/1000_F_165568999_WGtZtExZ9JFw72Cz1gIFyoNX2AwxAqhX.jpg",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507b"
+    },
+    "qty": 0,
+    "cost": 499
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002fc"
+    },
+    "name": "North Indian Thali",
+    "description": "We serve verities of north indian dishes",
+    "ingridients": [
+      "Dhokla",
+      "Dal",
+      "sweet-dish"
+    ],
+    "image": "https://as2.ftcdn.net/v2/jpg/01/65/56/89/1000_F_165568999_WGtZtExZ9JFw72Cz1gIFyoNX2AwxAqhX.jpg",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507b"
+    },
+    "qty": 0,
+    "cost": 499
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002fd"
+    },
+    "name": "Sandwich",
+    "description": "We have veritiesf sandwiches like grilled-sandwich cheese-sandwich",
+    "ingridients": [
+      "Vegetables",
+      "Bread"
+    ],
+    "image": "https://w7.pngwing.com/pngs/822/979/png-transparent-hamburger-cheese-sandwich-steak-sandwich-vegetable-sandwich-fast-food-grilled-sandwich-food-recipe-cafe-thumbnail.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507c"
+    },
+    "qty": 0,
+    "cost": 299
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002fe"
+    },
+    "name": "French fries",
+    "description": "Made with fresh potatos",
+    "ingridients": [
+      "Potato",
+      "Corn-flour"
+    ],
+    "image": "https://w7.pngwing.com/pngs/148/412/png-transparent-french-fries-french-cuisine-fast-food-kebab-crispy-fried-chicken-others.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507c"
+    },
+    "qty": 0,
+    "cost": 120
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c69002ff"
+    },
+    "name": "Spring Roll",
+    "description": "Made with mix-veggies and some spices",
+    "ingridients": [
+      "Vegetables",
+      "cheese"
+    ],
+    "image": "https://www.pngmart.com/files/16/Crispy-Spring-Rolls-Transparent-PNG.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507c"
+    },
+    "qty": 0,
+    "cost": 350
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c6900300"
+    },
+    "name": "Coctail Drinks",
+    "description": "We have verities coctail drinks",
+    "ingridients": [
+      "water",
+      "Fresh cream",
+      "Fruits"
+    ],
+    "image": "https://w7.pngwing.com/pngs/840/523/png-transparent-cocktail-garnish-non-alcoholic-drink-lassi-wine-cocktail-beer-food-drinks.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507d"
+    },
+    "qty": 0,
+    "cost": 199
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c6900301"
+    },
+    "name": "Mojitos",
+    "description": "We have lots of options in mojitos",
+    "ingridients": [
+      "water",
+      "flavour",
+      "soda"
+    ],
+    "image": "https://e7.pngegg.com/pngimages/904/252/png-clipart-mojito-cocktail-drink-snow-cone-recipe-mojito-food-tart.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507d"
+    },
+    "qty": 0,
+    "cost": 249
+  },{
+    "_id": {
+      "$oid": "63e0de79b2ec2899c6900302"
+    },
+    "name": "Hot Drinks",
+    "description": "we have verites of hot drinks",
+    "ingridients": [
+      "water",
+      "flavour",
+      "soda"
+    ],
+    "image": "https://www.pngfind.com/pngs/m/172-1729150_alcohol-drinks-png-mojito-drink-transparent-png.png",
+    "reataurantId": {
+      "$oid": "63dfc0e6d384c7c26a00507d"
+    },
+    "qty": 0,
+    "cost": 1500
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f2054f"
+    },
+    "name": "Veg. Biriyani",
+    "description": "Made with lots of fresh veggies",
+    "ingridients": [
+      "Vegetables",
+      "Rice",
+      "spices"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtwK_ynw-Z0CEGvjpM7zsob6CVMt7r1I_xw&usqp=CAU",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5e6"
+    },
+    "qty": 0,
+    "cost": 450
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20550"
+    },
+    "name": "Idli-Dosa",
+    "description": "Made with fresh Idli and dosa batter",
+    "ingridients": [
+      "Rice-batter",
+      "Chutney"
+    ],
+    "image": "https://chennaicaters.com/assets/dosa--1@1x.png",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5e6"
+    },
+    "qty": 0,
+    "cost": 250
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20551"
+    },
+    "name": "Chole Bhature",
+    "description": "Made with tomato onion and some spices with chole n bhature",
+    "ingridients": [
+      "Tomato",
+      "Onions",
+      "Chole"
+    ],
+    "image": "https://www.pngitem.com/pimgs/m/246-2460287_chole-bhature-image-png-transparent-png.png",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5e9"
+    },
+    "qty": 0,
+    "cost": 150
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20552"
+    },
+    "name": "Verities Of Parota",
+    "description": "We have aloo parota, Onion Parota and methi Parota",
+    "ingridients": [
+      "Potato",
+      "Onions",
+      "Methi"
+    ],
+    "image": "https://www.shutterstock.com/image-photo/aloo-paratha-indian-potato-stuffed-260nw-1211153056.jpg",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5e9"
+    },
+    "qty": 0,
+    "cost": 230
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20553"
+    },
+    "name": "Drinks",
+    "description": "We have verities of hot drinks",
+    "ingridients": [
+      "water",
+      "flavour",
+      "soda"
+    ],
+    "image": "https://www.pngfind.com/pngs/m/172-1729150_alcohol-drinks-png-mojito-drink-transparent-png.png",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5ec"
+    },
+    "qty": 0,
+    "cost": 1299
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20554"
+    },
+    "name": "French fries",
+    "description": "Made with fresh Potatos",
+    "ingridients": [
+      "Potato",
+      "Corn-flour"
+    ],
+    "image": "https://w7.pngwing.com/pngs/148/412/png-transparent-french-fries-french-cuisines-fast-food-kebab-crispy-fried-chicken-others.png",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5ec"
+    },
+    "qty": 0,
+    "cost": 120
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20555"
+    },
+    "name": "Spring Roll",
+    "description": "Made with mix-veggies and spices",
+    "ingridients": [
+      "Vegetables",
+      "cheese"
+    ],
+    "image": "https://www.pngmart.com/files/16/Crispy-Spring-Rolls-Transparent-PNG.png",
+    "reataurantId": {
+      "$oid": "63ff3d3092fa99a0821cb5f5"
+    },
+    "qty": 0,
+    "cost": 350
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20556"
+    },
+    "name": "Drinks",
+    "description": "We have verities of hot drinks",
+    "ingridients": [
+      "water",
+      "flavour",
+      "soda"
+    ],
+    "image": "https://www.pngfind.com/pngs/m/172-1729150_alcohol-drinks-png-mojito-drink-transparent-png.png",
+    "reataurantId": {
+      "$oid": "63ff3d3092fa99a0821cb5f5"
+    },
+    "qty": 0,
+    "cost": 1299
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20557"
+    },
+    "name": "Periperi fries",
+    "description": "Made with potatos and some spices",
+    "ingridients": [
+      "Potato",
+      "Chiily-Flakes",
+      "Corn-flour"
+    ],
+    "image": "https://thumbs.dreamstime.com/b/tasty-spicy-peri-peri-french-fries-mayonnaise-served-plate-over-rustic-wooden-background-selective-focus-tasty-spicy-223921260.jpg",
+    "reataurantId": {
+      "$oid": "63ff3d3092fa99a0821cb5f5"
+    },
+    "qty": 0,
+    "cost": 640
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20558"
+    },
+    "name": "Idli-Dosa",
+    "description": "Made with fresh Idli and dosa batter",
+    "ingridients": [
+      "Rice-batter",
+      "Chutney"
+    ],
+    "image": "https://chennaicaters.com/assets/dosa--1@1x.png",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5ee"
+    },
+    "qty": 0,
+    "cost": 250
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f20559"
+    },
+    "name": "North Indian Thali",
+    "description": "We serve verities of north indian dishes",
+    "ingridients": [
+      "Dhokla",
+      "Dal",
+      "sweet-dish"
+    ],
+    "image": "https://as2.ftcdn.net/v2/jpg/01/65/56/89/1000_F_165568999_WGtZtExZ9JFw72Cz1gIFyoNX2AwxAqhX.jpg",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5ee"
+    },
+    "qty": 0,
+    "cost": 499
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f2055a"
+    },
+    "name": "Veggie Paradise",
+    "description": "Made with Fresh Cheese, vegetables and some Spices like chilly flakes",
+    "ingridients": [
+      "Cheese",
+      "Vegetables",
+      "Chiily-Flakes"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TdkUoZisM-m2WcAdVsbQ-v3hER91wizUXA&usqp=CAU",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5ef"
+    },
+    "qty": 0,
+    "cost": 399
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f2055b"
+    },
+    "name": "Margareta",
+    "description": "Made with Fresh Cheese and some Spices like chilly flakes",
+    "ingridients": [
+      "Cheese",
+      "Chiily-Flakes"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpeNB1Sf-agcyx2rGiBroAQK9mnEoQU9nDQg&usqp=CAU",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5ef"
+    },
+    "qty": 0,
+    "cost": 299
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f2055c"
+    },
+    "name": "Verities Of Biriyani",
+    "description": "Made of fresh vegetables, Chicken and some spices",
+    "ingridients": [
+      "Onions",
+      "Basmati-rice",
+      "spices"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0GsWEvCCYJ2H0TRzu-jv3JCIJjL3RT13GQ&usqp=CAU",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5f1"
+    },
+    "qty": 0,
+    "cost": 320
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f2055d"
+    },
+    "name": "Paneer Butter Masala",
+    "description": "Made with paneer, Vegetables and some spices",
+    "ingridients": [
+      "Paneer",
+      "Vegetables"
+    ],
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/3a/88/db/kadai-paneer.jpg",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5f2"
+    },
+    "qty": 0,
+    "cost": 150
+  },{
+    "_id": {
+      "$oid": "6402370d8b1e03a778f2055e"
+    },
+    "name": "Dum Biriyani",
+    "description": "Made of fresh vegetables, Chicken and some spices",
+    "ingridients": [
+      "Onions",
+      "Basmati-rice",
+      "spices"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThq5ao_8PrOzcYZzzRHBYxWD7Wqmnf67NG-A&usqp=CAU",
+    "reataurantId": {
+      "$oid": "63ff392192fa99a0821cb5f2"
+    },
+    "qty": 0,
+    "cost": 320
+  }
+]

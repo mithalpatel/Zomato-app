@@ -1,0 +1,373 @@
+[   
+ {
+    "thumb": [
+        "/Idali.jpg",
+        "/upmaa.1.jpg",
+        "/alu-parotha-0.png",
+        "/Khaman-dhokla.jpg" 
+    ],
+    "name": "Breakfast Club",
+    "city": "Bengaluru",
+    "location_id": 1,
+    "city_id": 1,
+    "locality": "Kormangla",
+    "aggregate_rating": 3.2,
+    "rating_text": "Very Good",
+    "cost": 150,
+    "contact_number": 9445795437,
+    "Address": "Shop 1, plot A, Gandi Complex",
+    "cuisines_id": [1, 2],
+    "cuisines":[
+       {"cuisines":1,               
+        "name": "North Indian"},                
+       {"cuisines":2,                    
+        "name":"South Indian"}]  ,
+    "image":  "https://chennaicaters.com/assets/dosa--1@1x.png",
+    "mealtype_id": [1, 2] 
+ },{
+    "thumb": [
+      "/Tomato-Rice.jpg",
+      "/south.thali.01.jpg",
+      "/dosas.01.jpg",
+      "/south.thali.jpg"
+        ],
+    "name": "Hotel Swati",
+    "city": "Bengaluru",
+    "location_id": 1,
+    "city_id": 1,
+    "locality": "Kormangla",
+    "aggregate_rating": 3.6,
+    "rating_text": "Good",
+    "cost": 280,
+    "contact_number": 7687453879,
+    "cuisines_id": [1, 2, 4],
+    "cuisines":[
+       {"cuisines":1,               
+        "name": "North Indian"},                
+       {"cuisines":2,                    
+        "name":"South Indian"},
+       {"cuisines":4,                    
+       "name":"Fast Food"}],
+    "Address": "shop 6, Block B, Renu Complex",
+    "image":  "https://as2.ftcdn.net/v2/jpg/01/65/56/89/1000_F_165568999_WGtZtExZ9JFw72Cz1gIFyoNX2AwxAqhX.jpg",
+    "mealtype_id": [1,2,4]
+ },{
+    "thumb": [
+        "/pizza.01.jpg",
+        "/pizza.02.jpg",
+        "/pizza.03.jpg",
+        "/pizza-4.jpg"
+    ],
+    "name": "Domino's",
+    "city": "Bengaluru",
+    "location_id": 2,
+    "city_id": 1,
+    "locality": "Jay nagar",
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "cost": 399,
+    "contact_number": 9453524654,
+    "Address": "Shop 2, Block D, Mamata Complex",
+    "cuisines_id": [3, 4],
+    "cuisines":[             
+        {"cuisines":3,                    
+         "name":"Chinese"},
+        {"cuisines":4,                    
+        "name":"Fast Food"}],           
+    "image":  "https://i.pinimg.com/736x/b0/ca/32/b0ca32465f36b9b135c021e5f25dc938.jpg",
+    "mealtype_id": [2, 3]
+ },{
+    "thumb": [
+        "/drink.01.jpg",
+        "/drink.03.jpg",
+        "/frenchfries.jpg",
+        "/drink.04.jpg"
+    ],
+    "name": "Social Bar",
+    "city": "Bengaluru",
+    "location_id": 2,
+    "city_id": 1,
+    "locality": "Jay nagar",
+    "aggregate_rating": 4.1,
+    "rating_text": "Very Good",
+    "cost": 1299,
+    "contact_number": 7890657908,
+    "Address": "shop 7, Plot R, NR Complex",
+    "cuisines_id": [3, 4,  5],
+    "cuisines":[
+        {"cuisines":3,               
+         "name": "Chinese"},                
+        {"cuisines":4,                    
+         "name":"Fast Food"},
+        {"cuisines":5,                    
+        "name":"Street Food"}],
+    "image":  "https://png.pngtree.com/element_our/20190523/ourlarge/pngtree-fresh-colorful-drink-decorative-elements-image_1087153.jpg",
+    "mealtype_id": [3,5,6]
+ },{
+    "thumb": [
+        "/chole-rice.jpg",
+        "/paratha.jpg",
+        "/chole.jpg",
+        "/rajma.jpg"
+    ],
+    "name": "Baba ka Dhaba",
+    "city": "Mumbai",
+    "location_id": 3,
+    "city_id": 2,
+    "locality": "JB Nagar",
+    "aggregate_rating": 4.6,
+    "rating_text": "Very Good",
+    "cost": 250,
+    "contact_number": 9700786554,
+    "Address": "2nd cross, Behind SBI Bank",
+    "cuisines_id": [2, 4, 5],
+    "cuisines":[               
+        {"cuisines":2,                    
+         "name":"South Indian"},
+        {"cuisines":4,                    
+        "name":"Fast Food"},
+        {"cuisines":5,               
+         "name": "Street Food"}],
+    "image": "https://www.ruchiskitchen.com/wp-content/uploads/2020/01/Matar-kulcha-14.jpg.png",
+    "mealtype_id": [1, 2, 4]
+ },{
+    "thumb": [
+        "/burger.01.jpg",
+        "/burger.05.jpg",
+        "/frenchfries.jpg",
+        "/burger-2.jpg"
+    ],
+    "name": "KFC",
+    "city": "Mumbai",
+    "location_id": 3,
+    "city_id": 2,
+    "locality": "JB Nagar",
+    "aggregate_rating": 4,
+    "rating_text": "Very Good",
+    "cost": 499,
+    "contact_number": 9900456779,
+    "Address": "Shop 3, Plot A, Maruti Complex",
+    "cuisines_id": [3, 4],
+    "cuisines":[               
+        {"cuisines":3,                    
+         "name":"Chinese"},
+        {"cuisines":4,                    
+        "name":"Fast Food"}],
+    "image": "https://pngimg.com/uploads/kfc_food/kfc_food_PNG53.png",
+    "mealtype_id": [3, 4]
+ },{
+    "thumb": [
+        "/pannir.jpg",
+        "/lunch.01.jpg",
+        "/Riceee.jpg",
+        "/lunch.04.jpg"
+    ],
+    "name": "Hotel Kamat",
+    "city": "Mumbai",
+    "location_id": 4,
+    "city_id": 2,
+    "locality": "East Andheri",
+    "aggregate_rating": 4.1,
+    "rating_text": "Very Good",
+    "cost": 350,
+    "contact_number": 9745674578,
+    "Address":"Shop 4, Block A, Amitab Complex",
+    "cuisines_id":[1, 2, 4],
+    "cuisines":[ 
+        {"cuisines":1,               
+        "name": "North Indian"},              
+        {"cuisines":2,                    
+         "name":"South Indian"},
+        {"cuisines":4,                    
+        "name":"Fast Food"}],
+    "image":  "https://i.pinimg.com/originals/f8/47/7a/f8477a9ab0263fcdd3bfc2033812174a.png",
+    "mealtype_id": [1,2,3,4]
+ },{
+    "thumb": [
+        "/drink...jpg",
+        "/juice....jpg",
+        "/juice.jpg",
+        "/pannirikka02.jpg"
+    ],
+    "name": "Taj Club",
+    "city": "Mumbai",
+    "location_id": 4,
+    "city_id": 2,
+    "locality": "East Andheri",
+    "aggregate_rating": 4.4,
+    "rating_text": "Very Good",
+    "cost": 1399,
+    "contact_number": 7896548900,
+    "Address": "Shop 9, Block Y, MR Complex",
+    "cuisines_id": [3, 4, 5],
+    "cuisines":[          
+        {"cuisines":3,                    
+         "name":"Chinese"},
+        {"cuisines":4,                    
+        "name":"Fast Food"},
+        {"cuisines":5,               
+        "name": "Street Food"}],
+    "image":  "https://blog.zolostays.com/wp-content/uploads/2022/04/shutterstock_351380480-min.png",
+    "mealtype_id": [5,6,3]
+ },{
+    "thumb": [
+        "/drink.00.jpg",
+        "/gobi.jpg",
+        "/summer-cool-cocktails.jpg",
+        "/juice.03.jpg"
+    ],
+    "name": "Hikkups",
+    "city": "Gujrat",
+    "location_id": 6,
+    "city_id": 3,
+    "locality": "Mani Nagar",
+    "aggregate_rating": 4.6,
+    "rating_text": "Very Good",
+    "cost": 1599,
+    "contact_number": 9897765674,
+    "Address":"Shop 3, Plot A, Sardar Complex",
+    "cuisines_id": [3, 4, 5],
+    "cuisines":[          
+        {"cuisines":3,                    
+         "name":"Chinese"},
+        {"cuisines":4,                    
+        "name":"Fast Food"},
+        {"cuisines":5,               
+        "name": "Street Food"}],
+    "image": "https://www.pngitem.com/pimgs/m/380-3803337_image-cocktails-png-transparent-png.png",
+    "mealtype_id": [3,5,6]
+ },{
+    "thumb": [
+        "/thali.04.jpg",
+        "/pannir.masala.jpg",
+        "/thali.05.jpg",
+        "/veg.biriyani.jpg"
+    ],
+    "name": "Hotel Anporna",
+    "city": "Gujrat",
+    "location_id": 6,
+    "city_id": 3,
+    "locality": "Mani Nagar",
+    "aggregate_rating": 4,
+    "rating_text": "Very Good",
+    "cost": 450,
+    "contact_number": 9988768654,
+    "Address": "1st Crross, BM Road",
+    "cuisines_id": [1, 3, 4],
+    "cuisines":[ 
+        {"cuisines":1,               
+        "name": "North Indian"},         
+        {"cuisines":3,                    
+         "name":"Chinese"},
+        {"cuisines":4,                    
+        "name":"Fast Food"} ],
+    "image": "https://as2.ftcdn.net/v2/jpg/01/65/56/89/1000_F_165568999_WGtZtExZ9JFw72Cz1gIFyoNX2AwxAqhX.jpg",
+    "mealtype_id": [1, 2, 4]
+ },{
+    "thumb": [
+        "/pizza-4.jpg",
+        "/pizza.03.jpg",
+        "/pizza.02.jpg",
+        "/pizza.01.jpg"
+    ],
+    "name": "Pizza-hut",
+    "city": "Gujrat",
+    "location_id": 5,
+    "city_id": 3,
+    "locality": "Rajkot",
+    "aggregate_rating": 3.9,
+    "rating_text": "Good",
+    "cost": 450,
+    "contact_number": 9876543219,
+    "Address":"4th Main, Rana Nagar",
+    "cuisines_id": [4, 3, 5],
+    "cuisines":[ 
+        {"cuisines":3,                    
+         "name":"Chinese"},
+        {"cuisines":4,                    
+        "name":"Fast Food"},
+        {"cuisines":5,               
+        "name": "Street Food"}],
+    "image": "https://t4.ftcdn.net/jpg/05/59/19/27/360_F_559192791_F2GIFzgBQWzAHwzBdxdDulpkOW30HMNk.jpg",
+    "mealtype_id": [3,2]
+ },{
+    "thumb": [
+        "/masala.papad.jpg",
+        "/juice.03.jpg",
+        "/frenchfries.jpg",
+        "/drink.01.jpg"
+    ],
+    "name": "Lady Hydri Club",
+    "city": "Hydrabad",
+    "location_id": 9,
+    "city_id": 4,
+    "locality": "Chandra Nagar",
+    "aggregate_rating": 4.4,
+    "rating_text": "Very Good",
+    "cost": 1299,
+    "contact_number": 7865432566,
+    "Address": "shop 5, Plot F, Sallu Complex",
+    "cuisines_id": [3, 4, 5],
+    "cuisines":[ 
+        {"cuisines":3,                    
+         "name":"Chinese"},
+        {"cuisines":4,                    
+        "name":"Fast Food"},
+        {"cuisines":5,               
+        "name": "Street Food"}],
+    "image": "https://i.pngimg.me/thumb/f/720/comdlpng6944207.jpg",
+    "mealtype_id": [5,3,6]
+ },{
+    "thumb": [
+        "/Biriyani.4.jpg",
+        "/biryani.2.jpg",
+        "/biriyani.01.jpg",
+        "/biriyani.jpg"
+    ],
+    "name": "Briyani club",
+    "city": "Hydrabad",
+    "location_id": 9,
+    "city_id": 4,
+    "locality": "Chandra Nagar",
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "cost": 299,
+    "contact_number": 9878567685,
+    "Address":"Shop 9, Mohammad Road",        
+    "cuisines_id": [2, 5],
+    "cuisines":[ 
+        {"cuisines":2,                    
+        "name":"South Indian"},
+        {"cuisines":5,               
+        "name": "Street Food"}],
+    "image": "https://media.istockphoto.com/id/1254720533/photo/chicken-biryani-with-yogurt-dip-popular-indian-pakistani-non-vegetarian-food.jpg?s=612x612&w=0&k=20&c=mnyhCsS3ysk3W37mpYfOsF2hSHA4a2CV3PDjr8aLdCU=",
+    "mealtype_id": [1,2,4]
+ },{
+    "thumb": [
+        "/masala.rice.jpg",
+        "/veg.biriyani.jpg",
+        "/lunchoo.jpg",
+        "/lunch.jpg"
+    ],
+    "name": "Hotel Salma",
+    "city": "Hydrabad",
+    "location_id": 8,
+    "city_id": 4,
+    "locality": "Mohammad Nagar",
+    "aggregate_rating": 3.8,
+    "rating_text": "Very Good",
+    "cost": 299,
+    "contact_number": 9876890761,
+    "Address": " 4th Block, near University collage",
+    "cuisines_id": [1, 2, 4],
+    "cuisines":[ 
+        {"cuisines":1,                    
+        "name":"North Indian"},
+        {"cuisines":2,               
+        "name": "South Indian"},
+        {"cuisines":4,                    
+        "name":"Fast Food"} ],
+    "image": "https://cookingenie.com/content/wp-content/uploads/2023/02/Unlock-Your-Inner-Chef-Tips-for-Plating-Food-Like-a-Pro.png",
+    "mealtype_id": [1, 2, 4]
+ }
+]

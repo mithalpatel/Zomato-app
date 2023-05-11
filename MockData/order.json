@@ -1,0 +1,13 @@
+[
+ {
+    "oder-list":[
+        {"oder-item":"kadai paneer","qty": 3,"price": 150,"total": 450},
+        {"oder-item":"kadai paneer","qty": 3,"price": 150,"total": 450}],
+    "total": 900,
+    "user_E-mail":"",
+    "mobile_no": 9900657665,
+    "odrder_id": 888,
+    "payment_id":"ftd_234",
+    "order_status": true
+ }
+]

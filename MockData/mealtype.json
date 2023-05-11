@@ -1,0 +1,51 @@
+[
+  {
+    "_id": {
+      "$oid": "63de7d3d1ed291581df99676"
+    },
+    "name": "Breakfast",
+    "content": "Start your day with healthy, fresh and exclusive breakfast options",
+    "image": "../Images/assects/Breakfast-img.png",
+    "meal_type": 1
+  },{
+    "_id": {
+      "$oid": "63de7d3d1ed291581df99677"
+    },
+    "name": "Lunch",
+    "content": "Choose your Hot Lunch or full meal with lots of exclusive options",
+    "image": "../Images/assects/Lunch-img.png",
+    "meal_type": 2
+  },{
+    "_id": {
+      "$oid": "63de7d3d1ed291581df99678"
+    },
+    "name": "Snacks",
+    "content": "Choose your Yumm-yummy snacks with lot of exclusive options",
+    "image": "../Images/assects/Snacks-img.png",
+    "meal_type": 3
+  },{
+    "_id": {
+      "$oid": "63de7d3d1ed291581df99679"
+    },
+    "name": "Dinner",
+    "content": "Choose your yummy dinner with lots of exclusive options",
+    "image": "../Images/assects/Dinner-img.png",
+    "meal_type": 4
+  },{
+    "_id": {
+      "$oid": "63de7d3d1ed291581df9967a"
+    },
+    "name": "Drinks",
+    "content": "Choose your Drinks according to your mood with verites of sides",
+    "image": "../Images/assects/Drinks-img.png",
+    "meal_type": 5
+  },{
+    "_id": {
+      "$oid": "63de7d3d1ed291581df9967b"
+    },
+    "name": "Nightlife",
+    "content": "End your day by Boosting your stress with some drink and dance",
+    "image": "../Images/assects/Nightlife-img.png",
+    "meal_type": 6
+  }
+]

@@ -1,0 +1,329 @@
+body{
+    margin: 0;  
+    padding: 0;
+    text-decoration: none;
+    background-color: #FBFBFB;
+  }
+  header{
+    background-image: linear-gradient(to bottom right,  rgba(157, 14, 14, 0), #4F0707);
+    background-size: cover;
+    width:100%; 
+    height:500px;
+  }
+  div.header-image{
+    position: absolute;
+    overflow: hidden;
+    z-index: -1;
+    width: 100%;
+  }
+  #button{
+    border: 0;
+  }
+  form.createAcc{
+    display: grid;
+    margin-left: 45px;
+    margin-top: 35px;
+    margin-right: 45px;
+  }
+  form.createAcc button:hover{
+   cursor: pointer;
+  }
+  div.logo{
+    padding-top: 0%;
+    padding-left: 40%;
+    cursor: pointer;
+  }
+  p.header-logo{
+    text-decoration: none; 
+    font-size: 65px; 
+    height: 100px;
+    width: 100px;
+    padding-left: 17px; 
+    padding-right: 18px; 
+    border-radius: 50%;
+  }
+  select#search{
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+  }
+  input.search{
+    width: 336px; 
+    height: 50px; 
+    border-radius: 10px;
+  }
+  i#search-icon{
+    top: 3px; 
+    left: -321px;
+  }
+  p.title{
+    color: #192F60;
+  }
+  div.restaurants{
+    padding-top: 20px;
+  }
+  p.restaurent{
+    color:#8C96AB;
+  }
+  div.cards{
+    cursor: pointer;
+    border-radius: 0%;
+  }
+  div.card-1{
+    height: 160px; 
+    width:360px;
+  }
+  div.card-image-1{
+    height: 160px; 
+    width:360px;
+  }
+  h4.card-title{
+    text-align: left; 
+    margin-top: -37%; 
+    margin-left: 53%; 
+    color: #192F60;
+  }
+  p.card-text{
+    text-align: left;
+    margin-top: 1%;  
+    margin-left: 53%; 
+    width: 138px;
+    height: 62px;
+    color: #8C96AB; 
+  }
+  span.loged-in {
+    padding-bottom: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-right: 12px;
+    
+    border-radius: 5px;
+    padding-top: 4px;
+  }
+    /* search page start */
+     
+.e-logo{
+  cursor: pointer;
+  position: absolute;
+}
+.brand{
+ margin-top: 10px;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 50% ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #CE0505;
+}
+h3.places{
+  color:#192F60
+}
+select.filter-sort{
+  color:#192F60; 
+  font-size: 18px; 
+  border-radius: 0%; 
+  box-shadow: 0px 3px 3px #0000001A;
+  border: 1px solid #E0E0E0;
+}
+.nav{
+background: #CE0505;
+}
+p.filters{
+  color:#192F60; 
+  font-size: 18px;
+}
+div.filter-loc{
+  display: flex; 
+  flex-direction: column; 
+  margin-bottom: 16px;
+}
+label.form-label{
+  color: #192F60;
+}
+select.form-select{
+  color: #8C96AB; 
+  padding: 6px; 
+  border: #8C96AB 1px solid; 
+  border-radius: 3px; 
+  margin-right: 4px;
+}
+input.form-check-input{
+  border:#3A5075 1.75px solid; 
+  border-radius: 0;
+}
+label.form-check-label{
+  color: #8C96AB;
+}
+.restaurant-search-img{
+  width: 120px; 
+  height: 120px; 
+  border-radius: 35px ; 
+  overflow: hidden;
+}
+.res-cards{
+cursor: pointer;
+}
+.restaurant-search-img img{
+  width: 100%; 
+  height: 100%; 
+  transform: scale(1.4); 
+  transition-property: transform; 
+  transition-duration: 2s;
+}
+.form-check-input:checked{
+ background-color:#3A5075;
+ border-color: #3A5075;
+}
+.restaurant-search-img:hover img{
+  transform: scale(1) translateX(0px) translateY(0px); 
+}
+.Big-Chill {
+  color: #192F60;
+}
+.fort{
+  color: #192F60;
+}
+.bakery-rs{
+  color: #192F60;
+}
+.Bake-Shop{
+  color: #192F60;
+}
+.address {
+  color:#636F88
+}
+.fltr{
+  color: #192F60;
+}
+.cuisines-cost{
+  color: #636F88;
+}
+.page-link{
+  background: #FFFFFF 0% 0% no-repeat padding-box; 
+  border: 1px solid #8C96AB; 
+  border-radius: 7px;
+}
+.Page_list li{
+  margin-right: 10px;
+  border: 1px solid #636F88;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: navyblue;
+  color:#192F60;
+  font-size: 20px;
+  font-weight: 600;
+}
+.Page_list li:active{
+  background-color: #636F88;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width:450px) {
+ .filter-parent{
+        position: relative;
+ }
+ #filter{
+        position: absolute;
+        background-color: white;
+        margin-top: 61px;
+        padding-bottom: 97px;
+        z-index: 1;
+ }
+ 
+}
+
+/* RestaurantPage start*/
+
+
+.gallery{
+color:#192F60; 
+position: absolute; 
+background: #FFFFFF 0% 0% no-repeat padding-box; 
+border-radius: 3px; 
+margin-left: 75%; 
+margin-top: -5%; 
+opacity: 0.8;
+}
+.gallery:hover{
+color: #5b5757;
+}
+.restaurant-search img{
+border-radius: 14px;
+height: 60px;
+width: 60px;
+}
+.big-chill{
+color: #192F60;
+}
+.online-order{
+background: #CE0505 0% 0% no-repeat padding-box; 
+}
+.ordrclick {
+margin-left: 85%;
+background: #CE0505;
+}
+.about{
+color: #192F60;
+cursor: pointer;
+font-weight: bold;
+margin-left: 33px;
+gap: 100px;
+border-bottom: 2px solid #D2D9E6;
+}
+.ov-view{
+margin-bottom: 0px;
+}
+.cont-act{
+margin-bottom: 0px; 
+}
+.place-info{
+
+color: #192F60;
+}
+.contact-info {
+color: #192F60;
+}
+.modal-title{
+  margin-left: 35%;
+  color: #192F60;
+}
+@media screen and (max-width:412px) {
+.rest-image img{
+height: 200px;
+}
+.gallery{
+margin-left: 156px;
+margin-top: -45px;
+}
+.ordrclick {
+margin-left: 53%;
+margin-bottom: -12px;
+}
+.about{
+gap: 22px;
+}
+}
+/* Place order pop-up */
+.add-qty{
+  position: absolute;
+  margin-left: -66px;
+  margin-top: 73px;
+}
+.symbl-1 {
+  border: 1px solid gray;
+  padding-left: 6px;
+  padding-right: 4px;
+  border-radius: 30%;
+  cursor: pointer;
+}
+.order-item-count{
+  position: relative;
+}
+.total{
+  color: #192F60;
+}
+.button{
+  cursor: pointer;
+}
